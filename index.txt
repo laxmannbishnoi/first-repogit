@@ -1,3 +1,2 @@
 my first git hub file okay
-version 2 
-ha ha
+version 2
